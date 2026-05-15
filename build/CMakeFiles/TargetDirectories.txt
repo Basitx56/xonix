@@ -1,3 +1,0 @@
-/home/basit/game/game/build/CMakeFiles/xonix.dir
-/home/basit/game/game/build/CMakeFiles/edit_cache.dir
-/home/basit/game/game/build/CMakeFiles/rebuild_cache.dir
