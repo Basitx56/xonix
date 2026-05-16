@@ -94,3 +94,10 @@ xonix/
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library
 - C++17
 - CMake
+
+
+## 👨‍💻 Developed By
+
+**ABDUL BASIT - AYESHA ANJUM**  
+FAST NUCES Islamabad  
+Course: Programing Fundamentals (PF)
